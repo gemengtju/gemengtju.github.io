@@ -41,12 +41,12 @@ My research interest includes speech processing, speech separation and social ne
 </div>
 </div> -->
 
-- [VCSE: Time-Domain Visual-Contextual Speaker Extraction Network](https://github.com), Junjie Li, **Meng Ge<sup>`*`</sup>**, Zexu Pan, Longbiao Wang, Jianwu Dang, **INTERSPEECH 2022**
-- [USEV: Universal Speaker Extraction with Visual Cue](https://github.com), Zexu Pan, **Meng Ge`*`**, Haizhou Li, **TASLP 2022**
-- [Dual-stream Speech Dereverberation Network Using Long-term and Short-term Cues](https://github.com), Nan Li, **Meng Ge`*`**, Longbiao Wang, Jianwu Dang,  **IJCNN 2022**
-- [MIMO-DoAnet: Multi-channel Input and Multiple Outputs DoA Network with Unknown Number of Sound Sources](https://github.com), Haoran Yin, **Meng Ge**, Yanjie Fu, Gaoyan Zhang, Longbiao Wang, Lei Zhang, Lin Qiu, Jianwu Dang,  **INTERSPEECH 2022**
-- [Language-specific Characteristic Assistance for Code-switching Speech Recognition](https://github.com), Tongtong Song, Qiang Xu, **Meng Ge**, Longbiao Wang, Hao Shi, Yongjie Lv, Yuqin Lin, Jianwu Dang,  **INTERSPEECH 2022**
-- [RAW-GNN: RAndom Walk Aggregation based Graph Neural Network](https://github.com), Di Jin, Rui Wang, **Meng Ge**, Dongxiao He, Xiang Li, Wei Lin, Weixiong Zhang,  **IJCAI 2022**
+- [`VCSE: Time-Domain Visual-Contextual Speaker Extraction Network`](https://note.youdao.com/s/DF6nBHiw), Junjie Li, **Meng Ge<sup>`*`</sup>**, Zexu Pan, Longbiao Wang, Jianwu Dang, **INTERSPEECH 2022** [[PDF]](https://note.youdao.com/s/DF6nBHiw)
+- [USEV: Universal Speaker Extraction with Visual Cue](https://note.youdao.com/s/1SpGwsRf), Zexu Pan, **Meng Ge`*`**, Haizhou Li, **TASLP 2022**
+- [Dual-stream Speech Dereverberation Network Using Long-term and Short-term Cues](https://note.youdao.com/s/dN2u1EWb), Nan Li, **Meng Ge`*`**, Longbiao Wang, Jianwu Dang,  **IJCNN 2022**
+- [MIMO-DoAnet: Multi-channel Input and Multiple Outputs DoA Network with Unknown Number of Sound Sources](https://note.youdao.com/s/5NvEDWsS), Haoran Yin, **Meng Ge**, Yanjie Fu, Gaoyan Zhang, Longbiao Wang, Lei Zhang, Lin Qiu, Jianwu Dang,  **INTERSPEECH 2022**
+- [Language-specific Characteristic Assistance for Code-switching Speech Recognition](https://note.youdao.com/s/Ej1balFp), Tongtong Song, Qiang Xu, **Meng Ge**, Longbiao Wang, Hao Shi, Yongjie Lv, Yuqin Lin, Jianwu Dang,  **INTERSPEECH 2022**
+- [RAW-GNN: RAndom Walk Aggregation based Graph Neural Network](https://note.youdao.com/s/S0yzjAhC), Di Jin, Rui Wang, **Meng Ge**, Dongxiao He, Xiang Li, Wei Lin, Weixiong Zhang,  **IJCAI 2022** [[PDF]](https://note.youdao.com/s/S0yzjAhC) [[Video]](https://www.ijcai.org/proceedings/2022/video/293)
 - [Iterative Sound Source Localization for Unknown Number of Sources](https://github.com), Yanjie Fu, **Meng Ge**, Haoran Yin, Xinyuan Qian, Longbiao Wang, Gaoyan Zhang, Jianwu Dang,  **INTERSPEECH 2022**
 - [Compressing Transformer-Based ASR Model by Task-Driven Loss and Attention-Based Multi-Level Feature Distillation](https://github.com), Yongjie Lv, Longbiao Wang, **Meng Ge**, Sheng Li, Chenchen Ding, Lixin Pan, Yuguang Wang, Jianwu Dang, Kiyoshi Honda,  **ICASSP 2022**
 - [L-SpEx: Localized Target Speaker Extraction](https://github.com), **Meng Ge**, Chenglin Xu, Longbiao Wang, Eng Siong Chng, Jianwu Dang, Haizhou Li,  **ICASSP 2022**
