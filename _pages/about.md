@@ -41,6 +41,7 @@ My research interest includes speech processing, speech separation and social ne
 </div>
 </div> -->
 
+- *"Time-Domain Speech Separation Networks with Graph Encoding Auxiliary"*, Tingting Wang, Zexu Pan, **Meng Ge<sup>`*`</sup>**, Zhen Yang, Haizhou Li, **SPL** [[PDF]](https://note.youdao.com/s/P2qvfqgz)
 - *"VCSE: Time-Domain Visual-Contextual Speaker Extraction Network"*, Junjie Li, **Meng Ge<sup>`*`</sup>**, Zexu Pan, Longbiao Wang, Jianwu Dang, **INTERSPEECH 2022** [[PDF]](https://note.youdao.com/s/DF6nBHiw)
 - *"USEV: Universal Speaker Extraction with Visual Cue"*, Zexu Pan, **Meng Ge`*`**, Haizhou Li, **TASLP 2022** [[PDF]](https://note.youdao.com/s/1SpGwsRf) [[Code]](https://github.com/zexupan/USEV)
 - *"Dual-stream Speech Dereverberation Network Using Long-term and Short-term Cues"*, Nan Li, **Meng Ge`*`**, Longbiao Wang, Jianwu Dang,  **IJCNN 2022** [[PDF]](https://note.youdao.com/s/dN2u1EWb)
