@@ -1,0 +1,20 @@
+video::-webkit-media-controls-fullscreen-button {
+    display:none;
+    }
+video::-webkit-media-controls-mute-button {
+    display:none;
+    }
+canvas1 {
+    display: none;flex-wrap: wrap;justify-content: center;
+        position: absolute;
+        border: 2px solid greenyellow;
+        height: 333;width: 235;
+        top: 163px;left: 186;right:421;bottom: 495;
+}
+canvas2 {
+    display: none;flex-wrap: wrap;justify-content: center;
+        position: absolute;
+        border: 2px solid greenyellow;
+        height: 265;width: 164;
+        top: 275;left: 884;right:1048;bottom: 540;
+}
