@@ -22,7 +22,7 @@ I am a PhD candidate student in College of Intelligence and Computing in Tianjin
 My research interest includes speech processing, speech separation and social network analysis. I have published more than 10 papers at the top international AI conferences such as IJCAI, ICASSP, INTERSPEECH.
 
 # 💻 Research Experiences
-- *2022.07 - Present*, Research Asistant, Chinese University of Hong Kong (CUHKSZ), Shenzhen, China. [[Project Demo1]](https://gemengtju.github.io/demo/AV/index.html) [[Project Demo2]](https://gemengtju.github.io/demo/AV/videos_gopro/USEV-demo.mov)
+- *2022.07 - Present*, Research Asistant, Chinese University of Hong Kong (CUHKSZ), Shenzhen, China. [[Project Demo1]](https://gemengtju.github.io/demo/AV/index.html) [[Project Demo2]](https://gemengtju.github.io/demo/AV/index_gopro.html)
 - *2020.04 - 2022.07*, Research Asistant, National University of Singapore (NUS), Singapore.
 - *2019.10 - 2020.04*, Research Asistant, Nanyang Technological University (NTU), Singapore.
 - *2018.09 - 2019.06*, Machine Learning Engineer, AI Lab of Didi Chuxing Company (DiDi), Beijing, China.
