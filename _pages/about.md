@@ -21,12 +21,17 @@ I am a PhD candidate student in College of Intelligence and Computing in Tianjin
 
 My research interest includes speech processing, speech separation and social network analysis. I have published more than 10 papers at the top international AI conferences such as IJCAI, ICASSP, INTERSPEECH.
 
+# 📖 Educations
+- *2017.09 - 2022.10*, Ph.D. in Applied Computer Technology, Tianjin University (TJU), Tianjin, China. 
+- *2015.09 - 2017.06*, M.E. in Software Engineering, Tianjin University (TJU), Tianjin, China. **[Got Master's Degree in advanced]** 
+- *2011.09 - 2015.06*, B.E. in Software Engineering / B.S. in Public Management (double major), Tianjin Polytechnic University (TJPU), Tianjin, China. **[GPA: 90.33/100, Ranking: Top3]**
+
 # 💻 Research Experiences
 - *2023.04 - Present*, Research Fellow, National University of Singapore (NUS), Singapore.
 - *2022.07 - Present*, Research Asistant, Chinese University of Hong Kong (CUHKSZ), Shenzhen, China. [[Project Demo1]](https://gemengtju.github.io/demo/AV/index.html) [[Project Demo2]](https://youtu.be/ei1FkQwZKBQ)
 - *2020.04 - 2022.07*, Research Asistant, National University of Singapore (NUS), Singapore.
-- *2019.10 - 2020.04*, Research Asistant, Nanyang Technological University (NTU), Singapore.
-- *2018.09 - 2019.06*, Machine Learning Engineer, AI Lab of Didi Chuxing Company (DiDi), Beijing, China.
+- *2019.10 - 2020.04*, Research Asistant, Nanyang Technological University (NTU), Singapore. [[Team Members]](https://www.dropbox.com/s/cbeqnrd5vu7nl9s/MICL_Interns_Nov%202019_Grp2.pdf?dl=0)
+- *2018.09 - 2019.06*, Machine Learning Engineer, AI Lab of Didi Chuxing Company (DiDi), Beijing, China. [[Outstanding Award]](https://note.youdao.com/s/Gvo9x0P9)
 
 # 📝 Publications 
 
@@ -73,10 +78,11 @@ My research interest includes speech processing, speech separation and social ne
 - *"Using Deep Learning for Community Discovery in Social Networks"*, Di Jin, **Meng Ge**, Zhixuan Li, Wenhuan Lu, Dongxiao He, Francoise Fogelman-Soulie, **ICTAI 2017** [[PDF]](https://note.youdao.com/s/LGVk0ENQ)
 - *"Exploring the Roles of Cannot-link Constraint in Community Detection via Multi-variance Mixed Gaussian Generative Model"*, Liang Yang, **Meng Ge**, Di Jin, Dongxiao He, Huazhu Fu, Jing Wang, Xiaochun Cao, **PLOS ONE 2017** [[PDF]](https://note.youdao.com/s/Lq1fLmJD) [[Code]](https://yangliang.github.io/code/MMGG.rar)
 
-# 📖 Educations
-- *2017.09 - 2022.10*, Ph.D. in Applied Computer Technology, Tianjin University (TJU), Tianjin, China. 
-- *2015.09 - 2017.06*, M.E. in Software Engineering, Tianjin University (TJU), Tianjin, China. 
-- *2011.09 - 2015.06*, B.E. in Software Engineering / B.S. in Public Management (double major), Tianjin Polytechnic University (TJPU), Tianjin, China. (GPA: 90.33/100, Ranking: Top3)
+# 📝 Patents 
+- *"Environmental Adaptive Speech Enhancement Algorithm Based on Attention Driven Recurrent Convolutional Network (基于注意力驱动循环卷积网络的环境自适应语音增强算法)"*, **Meng Ge**, Longbiao Wang, Jianwu Dang, **CN201910166373.9** [[Link]](https://www.shanghaiip.cn/api/v2/res?path=ZG9jdW1lbnQtMjAxOSw2MTUyYmZlNzg5NWU1ZjZjZWM0ZjkwMjI=)
+- *"An order processing method, device, electronic device, and storage medium (一种订单处理方法、装置、电子设备及存储介质)"*, **Meng Ge**, Ruixiong Zhang, **CN201910414644.8** [[Link]](https://www.shanghaiip.cn/api/v2/res?path=ZG9jdW1lbnQtMjAyMCw2MTY0OGU3ZDJhOGNlZjM5MDE2MjYwNzA=)
+- *"Method, device, and system for sound source localization based on time-domain units (基于时域单元的声源定位方法、装置及系统)"*, Haotian Guan, Yu Jiang, **Meng Ge**, Qibo Liao, **CN202010401597.6** [[Link]](https://www.shanghaiip.cn/api/v2/res?path=ZG9jdW1lbnQtMjAyMCw2MTY0Yjc5MjJhOGNlZjM5MDE3MmY3ZjQ=)
+- *"A Beamforming Method Based on Complex Gated Cyclic Units (一种基于复数门控循环单元的波束形成方法)"*, Yu Jiang, Longbiao Wang, **Meng Ge**, Jianwu Dang, Kiyoshi Honda, **CN202111524413.6** [[Link]](http://221.194.47.226:8066/Home/SHpdf?fs=6950E3F9D5A21269E937A602BAB6BE58CA937A6C0DC27985F3959631A561AD6F903FD2A4C9BF7619E82608F7C11D06A31AE0BB7D83C419877A1788BAD84DC774ED7D12AFCC06A27D049C9455BE11C5165BC32448D5EBE12EE7D4967D5B91D5D50894197EE337CC08A12FD567CA73246981730739B8BD5A49CE1DDA750335018A08A20D6F4E3C13A6)
 
 # 💻 Work Experiences
 - *2015.07 - 2016.07*, Co-Funder, Tianjin Lingyi Technology Co., Ltd, Tianjin, China.

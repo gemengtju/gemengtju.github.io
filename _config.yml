@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Ge Meng"
-description              : "Research Asistant at the Chinese University of Hong Kong, Shenzhen"
+description              : "Research Fellow at the National University of Singapore, Singapore"
 repository               : "gemengtju/gemengtju.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "GE MENG"
   avatar           : "images/gemeng.png"
-  bio              : "[Curriculum Vitae]"
-  location         : "Shenzhen, China"
+  bio              : "[Curriculum Vitae (EN/CN)]"
+  location         : "Singapore"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com.sg/citations?user=Ody4GF0AAAAJ&hl=en"
-  email            : "gemeng@tju.edu.cn"
+  email            : "gemeng@nus.edu.sg"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
