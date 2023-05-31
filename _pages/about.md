@@ -22,6 +22,7 @@ I am a PhD candidate student in College of Intelligence and Computing in Tianjin
 My research interest includes speech processing, speech separation and social network analysis. I have published more than 10 papers at the top international AI conferences such as IJCAI, ICASSP, INTERSPEECH.
 
 # 💻 Research Experiences
+- *2023.04 - Present*, Research Fellow, National University of Singapore (NUS), Singapore.
 - *2022.07 - Present*, Research Asistant, Chinese University of Hong Kong (CUHKSZ), Shenzhen, China. [[Project Demo1]](https://gemengtju.github.io/demo/AV/index.html) [[Project Demo2]](https://youtu.be/ei1FkQwZKBQ)
 - *2020.04 - 2022.07*, Research Asistant, National University of Singapore (NUS), Singapore.
 - *2019.10 - 2020.04*, Research Asistant, Nanyang Technological University (NTU), Singapore.
@@ -84,7 +85,8 @@ My research interest includes speech processing, speech separation and social ne
 - *2013.06 - 2013.07*, Software Engineer & Team Leader, IBM (Tianjin) Experienced Training Program, Tianjin, China.
 
 # 🎖 Certifications and Awards
-- Honda Kiyoshi's Advanced Speech Science Award
+- The third place in the international L3DAS23 Challenge of ICASSP 2023 [[Link]](https://www.l3das.com/icassp2023/) 
+- Honda Kiyoshi's Advanced Speech Science Award [[PDF]](https://note.youdao.com/s/NoSe7Xmx)
 - ISCA Grant Award of INTERSPEECH 2019
 - Oracle Certified Professional (OCP) - Oracle 10g Database Administrator. 
 - Oracle Database 10g Administrator Certified Associate (OCA). 
@@ -94,7 +96,7 @@ My research interest includes speech processing, speech separation and social ne
 - Outstanding Graduate Student Award
 
 # 💬 Leadership and Service Experiences
-- Reviewers: TASLP, ICASSP 2023
+- Reviewers: TASLP, ICASSP, INTERSPEECH, Pattern Recognition
 - Conference Volunteer, The National Conference on Man-Machine Speech Communication (NCMMSC'19)
 - Volunteer Leader, The 11th International Seminar on Speech Production (ISSP'17)
 - Conference Volunteer, The 10th International Symposium on Chinese Spoken Language Processing (ISCSLP'16)
