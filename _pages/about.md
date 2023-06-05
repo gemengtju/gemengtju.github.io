@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a PhD candidate student in College of Intelligence and Computing in Tianjin University, supervised by Prof. [Longbiao Wang](http://cic.tju.edu.cn/faculty/wanglongbiao/wang.html) and Prof. [Jianwu Dang](http://www.jaist.ac.jp/~jdang/index-e.htm). My research topic is Speech Separation Based on Deep Learning in Open Complex Environment [[Thesis]](https://note.youdao.com/s/LxdHTMU4) [[Slide]](https://note.youdao.com/s/PYb5Ip4f). During my PhD period, I also worked as a research assistant in NTU and NUS in Singapore from 2019 to 2022, supervised by Prof. [Eng Siong Chng](https://personal.ntu.edu.sg/aseschng/default.html) and Prof. [Haizhou Li](https://colips.org/~eleliha/). Prior to that, I received my Master’s Degree from Tianjin University under the supervision of Prof. [Di Jin](https://scholar.google.com/citations?hl=zh-CN&user=Q8MRRecAAAAJ) and Prof. [Liang Yang](https://yangliang.github.io/) in 2017, and my master's research topic is Socical Network or Community Detection.
+I am currently a Research Fellow with [[HLT Lab]](https://cde.nus.edu.sg/ece/hlt/), Department of Electrical and Computer Engineering, National University of Singapore (NUS). I received Ph.D Degree in College of Intelligence and Computing in Tianjin University, supervised by Prof. [Longbiao Wang](http://cic.tju.edu.cn/faculty/wanglongbiao/wang.html) and Prof. [Jianwu Dang](http://www.jaist.ac.jp/~jdang/index-e.htm). My research topic is Speech Separation Based on Deep Learning in Open Complex Environment [[Thesis]](https://note.youdao.com/s/LxdHTMU4) [[Slide]](https://note.youdao.com/s/PYb5Ip4f). During my PhD period, I also worked as a research assistant in NTU and NUS in Singapore from 2019 to 2022, supervised by Prof. [Eng Siong Chng](https://personal.ntu.edu.sg/aseschng/default.html) and Prof. [Haizhou Li](https://colips.org/~eleliha/). Prior to that, I received my Master’s Degree from Tianjin University under the supervision of Prof. [Di Jin](https://scholar.google.com/citations?hl=zh-CN&user=Q8MRRecAAAAJ) and Prof. [Liang Yang](https://yangliang.github.io/) in 2017, and my master's research topic is Socical Network or Community Detection.
 
 My research interest includes speech processing, speech separation and social network analysis. I have published more than 10 papers at the top international AI conferences such as IJCAI, ICASSP, INTERSPEECH.
 
@@ -94,8 +94,8 @@ My research interest includes speech processing, speech separation and social ne
 - The third place in the international L3DAS23 Challenge of ICASSP 2023 [[Link]](https://www.l3das.com/icassp2023/) 
 - Honda Kiyoshi's Advanced Speech Science Award [[PDF]](https://note.youdao.com/s/NoSe7Xmx)
 - ISCA Grant Award of INTERSPEECH 2019
-- Oracle Certified Professional (OCP) - Oracle 10g Database Administrator. 
-- Oracle Database 10g Administrator Certified Associate (OCA). 
+- Oracle Certified Professional (OCP) - Oracle 10g Database Administrator [[PDF]](https://note.youdao.com/s/MeYGynEv)
+- Oracle Database 10g Administrator Certified Associate (OCA) [[PDF]](https://note.youdao.com/s/CQ9Of1ia) 
 - Outstanding Student Scholarship Award.
 - First-Class Scholarship Award
 - Outstanding Youth Nomination Award
