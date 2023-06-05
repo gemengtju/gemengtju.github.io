@@ -88,7 +88,7 @@ My research interest includes speech processing, speech separation and social ne
 - *2015.07 - 2016.07*, Co-Funder, Tianjin Lingyi Technology Co., Ltd, Tianjin, China.
 - *2014.03 - 2015.06*, Co-Funder and Senior Software Engineer, Tianjin Chuanhe Technology Co., Ltd, Tianjin, China.
 - *2014.01 - 2014.07*, Software Engineer and Team Leader, iSoftStone (Tianjin) Information Technology Group Co, Ltd, Tianjin, China.
-- *2013.06 - 2013.07*, Software Engineer & Team Leader, IBM (Tianjin) Experienced Training Program, Tianjin, China.
+- *2013.06 - 2013.07*, Software Engineer and Team Leader, IBM (Tianjin) Experienced Training Program, Tianjin, China.
 
 # 🎖 Certifications and Awards
 - The third place in the international L3DAS23 Challenge of ICASSP 2023 [[Link]](https://www.l3das.com/icassp2023/) 
