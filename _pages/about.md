@@ -47,6 +47,10 @@ My research interest includes speech processing, speech separation and social ne
 </div>
 </div> -->
 
+- *"PIAVE: A Pose-Invariant Audio-Visual Speaker Extraction Network"*, Qinghua Liu, **Meng Ge<sup>`*`</sup>**, Zhizheng Wu, Haizhou Li, **INTERSPEECH 2023**
+- *"Locate and Beamform: Two-dimensional Locating All-neural Beamformer for Multi-channel Speech Separation"*, Yanjie Fu, **Meng Ge<sup>`*`</sup>**, Honglong Wang, Nan Li, Haoran Yin, Longbiao Wang, Gaoyan Zhang, Jianwu Dang, Chengyun Deng, Fei Wang, **INTERSPEECH 2023**
+- *"Rethinking the Visual Cues in Audio-Visual Speaker Extraction"*, Junjie Li, **Meng Ge<sup>`*`</sup>**, Zexu Pan, Rui Cao, Longbiao Wang, Jianwu Dang, Shiliang Zhang, **INTERSPEECH 2023**
+- *"SDNet: Stream-attention and Dual-feature Learning Network for Ad-hoc Array Speech Separation"*, Honglong Wang, Chengyun Deng, Yanjie Fu, **Meng Ge<sup>`*`</sup>**, Longbiao Wang, Gaoyan Zhang, Jianwu Dang, Fei Wang, **INTERSPEECH 2023**
 - *"Time-Domain Speech Separation Networks with Graph Encoding Auxiliary"*, Tingting Wang, Zexu Pan, **Meng Ge<sup>`*`</sup>**, Zhen Yang, Haizhou Li, **SPL** [[PDF]](https://note.youdao.com/s/P2qvfqgz)
 - *"VCSE: Time-Domain Visual-Contextual Speaker Extraction Network"*, Junjie Li, **Meng Ge<sup>`*`</sup>**, Zexu Pan, Longbiao Wang, Jianwu Dang, **INTERSPEECH 2022** [[PDF]](https://note.youdao.com/s/DF6nBHiw)
 - *"USEV: Universal Speaker Extraction with Visual Cue"*, Zexu Pan, **Meng Ge`*`**, Haizhou Li, **TASLP 2022** [[PDF]](https://note.youdao.com/s/1SpGwsRf) [[Code]](https://github.com/zexupan/USEV)
