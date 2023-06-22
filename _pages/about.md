@@ -28,7 +28,7 @@ My research interest includes speech processing, speech separation and social ne
 
 # 💻 Research Experiences
 - *2023.04 - Present*, Research Fellow, National University of Singapore (NUS), Singapore.
-- *2022.07 - Present*, Research Asistant, Chinese University of Hong Kong (CUHKSZ), Shenzhen, China. [[Project Demo1]](https://gemengtju.github.io/demo/AV/index.html) [[Project Demo2]](https://youtu.be/ei1FkQwZKBQ)
+- *2022.07 - 2023.04*, Research Asistant, Chinese University of Hong Kong (CUHKSZ), Shenzhen, China. [[Project Demo1]](https://gemengtju.github.io/demo/AV/index.html) [[Project Demo2]](https://youtu.be/ei1FkQwZKBQ)
 - *2020.04 - 2022.07*, Research Asistant, National University of Singapore (NUS), Singapore.
 - *2019.10 - 2020.04*, Research Asistant, Nanyang Technological University (NTU), Singapore. [[Team Members]](https://www.dropbox.com/s/cbeqnrd5vu7nl9s/MICL_Interns_Nov%202019_Grp2.pdf?dl=0)
 - *2018.09 - 2019.06*, Machine Learning Engineer, AI Lab of Didi Chuxing Company (DiDi), Beijing, China. [[Outstanding Award]](https://note.youdao.com/s/Gvo9x0P9)
