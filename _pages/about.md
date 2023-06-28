@@ -88,6 +88,17 @@ My research interest includes speech processing, speech separation and social ne
 - *"Method, device, and system for sound source localization based on time-domain units (基于时域单元的声源定位方法、装置及系统)"*, Haotian Guan, Yu Jiang, **Meng Ge**, Qibo Liao, **CN202010401597.6** [[Link]](https://www.shanghaiip.cn/api/v2/res?path=ZG9jdW1lbnQtMjAyMCw2MTY0Yjc5MjJhOGNlZjM5MDE3MmY3ZjQ=)
 - *"A Beamforming Method Based on Complex Gated Cyclic Units (一种基于复数门控循环单元的波束形成方法)"*, Yu Jiang, Longbiao Wang, **Meng Ge**, Jianwu Dang, Kiyoshi Honda, **CN202111524413.6** [[Link]](http://221.194.47.226:8066/Home/SHpdf?fs=6950E3F9D5A21269E937A602BAB6BE58CA937A6C0DC27985F3959631A561AD6F903FD2A4C9BF7619E82608F7C11D06A31AE0BB7D83C419877A1788BAD84DC774ED7D12AFCC06A27D049C9455BE11C5165BC32448D5EBE12EE7D4967D5B91D5D50894197EE337CC08A12FD567CA73246981730739B8BD5A49CE1DDA750335018A08A20D6F4E3C13A6)
 
+
+# 📝 Projects (participation) 
+- *2023.04 - 2025.04*, Single-Channel Far-field Speaker Diarization for Interview Rooms with Far-field Voice Activity Detection, KLASS project in Singapore.
+- *2022.06 - 2025.06*, Brain-like Auditory Attention Theory and Engineering Practice (类脑听觉注意力理论与工程化实践), Internal Project from Shenzhen Research Institute of Big Data.
+- *2022.01 - 2023.12*, Multi-modal Self-supervised Learning in Speech Processing (多模态自监督预训练技术在语音处理的应用), H Company with CUHKSZ.
+- *2019.06 - 2022.05*, 1st Sub-Topic in Brain-like Natural Language Recognition and Interaction Based on Cognitive Mechanism (基于语言认知机理的类脑自然语言识别与交互), National Key R&D Plan "Intelligent Robot" Special Project
+- *2018.01 - 2012.12*, Research on Multi-Accent Speech Recognition for Reverberation Environment (面向混响环境的多口音语音识别研究), the National Natural Science Foundation of China
+- *2018.10 - 2021.09*, Key Technologies and System Implementation of Conversation in Complex Acoustic Environments for Robots (面向机器人的复杂环境语音对话关键技术及系统实现), Tianjin New Generation Artificial Intelligence Technology Project
+- *2021.10 - 2022.09*, Speech Separation for Car Environments (面向车载环境的语音分离), D Company with Tianjin University [[Awards]](https://mp.weixin.qq.com/s/Rr8DCYYR8p08gah9ZedBMw)
+- *2020.06 - 2021.03*, Fan-shaped Intelligent Sound Screen (扇形智能音幕), H Company with Tianjin University [[IdeaHub Product]](https://www.youtube.com/watch?v=K92f6ajWmlI)
+
 # 💻 Work Experiences
 - *2015.07 - 2016.07*, Co-Funder, Tianjin Lingyi Technology Co., Ltd, Tianjin, China.
 - *2014.03 - 2015.06*, Co-Funder and Senior Software Engineer, Tianjin Chuanhe Technology Co., Ltd, Tianjin, China.
