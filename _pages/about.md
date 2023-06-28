@@ -97,7 +97,7 @@ My research interest includes speech processing, speech separation and social ne
 - *2018.01 - 2012.12*, Research on Multi-Accent Speech Recognition for Reverberation Environment (面向混响环境的多口音语音识别研究), the National Natural Science Foundation of China
 - *2018.10 - 2021.09*, Key Technologies and System Implementation of Conversation in Complex Acoustic Environments for Robots (面向机器人的复杂环境语音对话关键技术及系统实现), Tianjin New Generation Artificial Intelligence Technology Project
 - *2021.10 - 2022.09*, Speech Separation for Car Environments (面向车载环境的语音分离), D Company with Tianjin University [[Awards]](https://mp.weixin.qq.com/s/Rr8DCYYR8p08gah9ZedBMw)
-- *2020.06 - 2021.03*, Fan-shaped Intelligent Sound Screen (扇形智能音幕), H Company with Tianjin University [[IdeaHub Product]](https://www.youtube.com/watch?v=K92f6ajWmlI)
+- *2020.06 - 2021.03*, 1111Fan-shaped Intelligent Sound Screen (扇形智能音幕), H Company with Tianjin University [[IdeaHub Product]](https://www.youtube.com/watch?v=K92f6ajWmlI)
 
 # 💻 Work Experiences
 - *2015.07 - 2016.07*, Co-Funder, Tianjin Lingyi Technology Co., Ltd, Tianjin, China.
